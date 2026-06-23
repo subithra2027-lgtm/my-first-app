@@ -37,6 +37,12 @@ Run the application:
 
 streamlit run app.py
 
+🌐 Live Application
+
+🔗 Streamlit Deployment:
+
+https://my-first-app-exocnwgrivrdsc3ywhbipu.streamlit.app/
+
 ## 👩‍🎓 Developed By
 Subithra
 
